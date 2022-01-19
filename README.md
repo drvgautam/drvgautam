@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drvgautam
-- 👀 I’m interested in mathematical modelling and simuation
+- 👀 I’m interested in mathematical modelling and simulation
 
 
 <!---
