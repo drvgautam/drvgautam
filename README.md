@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drvgautam
-- 👀 I’m interested in mathematical modelling and simulation
+- 👀 My interests lie in building applications at the intersection of data, semantics, cloud technology and AI
 
 
 <!---
