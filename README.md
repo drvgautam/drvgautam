@@ -2,7 +2,7 @@
 
 **AI Engineer & Computational Scientist** focused on **LLMs, RAG, knowledge graphs, FAIR research data infrastructure, semantic data systems, and computational modelling**.
 
-I have a PhD in Computer Science and postdoctoral experience in computational modelling and simulation of biomolecular systems. My work connects scientific computing with practical AI engineering: building systems where research data, metadata, knowledge graphs, and LLM workflows become usable, reliable, and AI-ready.
+I have a PhD in Computer Science in computational modelling and simulation. My work connects scientific computing with practical AI engineering: building systems where research data, metadata, knowledge graphs, and LLM workflows become usable, reliable, and AI-ready.
 
 ---
 
